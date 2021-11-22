@@ -13,7 +13,6 @@ The purpose of this analysis is to help an investor  know if a business-decision
 - Temperatures tend to fluctuate similarly in winter and summer. From this, we can be rest assured that it is profitable to stay open on a round-the-year basis. Since the variance in temperature is 3.26 °F during the month of June and not much greater in the winter, at 3.75 °F in December, this minor variance in temperature through the year will ensure a constant flow of potential customers, for both the surf and ice cream.
 
 ![June Weather](Resources/june_weather.png)
-
 ![December Weather](Resources/dec_weather.png)
 
 - As we can see, the maximum temperature throughout every June among the years 2010 to 2017 is 85 °F. Similarly, December's maximum temperature recorded among these seven years was 83 °F. Seeing as Oahu lies on the 21st parallel of earth's latitude, we know it stays plenty warm on this island year-round. As such, we can rely on predictable weather patterns at this propspective surf shop site.
